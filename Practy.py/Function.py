@@ -111,8 +111,9 @@
 # Sample Items : green-red-yellow-black-white
 # Expected Result : black-green-red-white-yellow
 
-        
-
-
-
+#this is just a comment
+a = 10
+b = 5
+sum = a + b
+print(sum)
 
